@@ -58,6 +58,11 @@ Traquito tools (channel/log/map):
 
   Swap `channel=290` to 291 or 292 as needed; add `&dtGte=YYYY-MM-DD&dtLte=YYYY-MM-DD` to bound a date range.
 
+WSPR reception / spot maps (who heard you):
+
+- **WSPR spot map (aprsinfo):** https://wspr.aprsinfo.com/ — set Dir=TX, Call=KK7OWL, Band=20m to see which stations received your signal, with distance lines.
+- **wsprnet.org database:** https://www.wsprnet.org/ — authoritative spot database; filter by callsign for receiver, SNR, and distance details.
+
 ## Key specs (from build)
 
 - **Jetpack input voltage:** 3.0V – 5.5V (buck/boost regulator); hardware reset floor at 2.6V

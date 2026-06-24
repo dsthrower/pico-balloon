@@ -13,6 +13,7 @@ Lives in `github.com/dsthrower/pico-balloon` (branch: `master`). Raw URLs:
 ## Related documents
 
 - **Receive station setup & runbook:** `receive_station_setup.md` — SDR/antenna hardware, signal chain, and bring-up steps for monitoring WSPR.
+- **Bench test procedure:** `bench_test_procedure.md` — end-to-end test to confirm the tracker transmits, locks GPS, and is heard by the network (battery/prototype, not solar).
 
 ## Traquito (primary project site)
 
@@ -31,6 +32,7 @@ Note: `traquito.org` redirects here; `traquito.github.io` is the canonical addre
 - **LightAPRS — Tips & Tricks for Pico Balloons (wiki):** https://github.com/lightaprs/LightAPRS-1.0/wiki/Tips-&-Tricks-for-Pico-Balloons
 - **Pico Balloons by K9YO — balloon:** https://sites.google.com/view/picoballoonsbyk9yo/balloon
 - **Pico Balloons by K9YO — transmitter:** https://sites.google.com/view/picoballoonsbyk9yo/transmitter
+- **Grid square (Maidenhead) locator system explained:** https://www.dxzone.com/grid-square-locator-system-explained/
 
 ## Products & suppliers
 
@@ -45,7 +47,7 @@ Note: `traquito.org` redirects here; `traquito.github.io` is the canonical addre
 - **Callsign:** KK7OWL
 - **Band:** 20m
 - **Reserved channels:** 290, 291, 292
-- **Grid location:** CN94 (Bend)
+- **Grid square (Bend, OR):** CN94 (6-char: CN94md)
 
 Traquito tools (channel/log/map):
 

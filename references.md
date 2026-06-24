@@ -45,6 +45,7 @@ Note: `traquito.org` redirects here; `traquito.github.io` is the canonical addre
 - **Callsign:** KK7OWL
 - **Band:** 20m
 - **Reserved channels:** 290, 291, 292
+- **Grid location:** CN94 (Bend)
 
 Traquito tools (channel/log/map):
 

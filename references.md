@@ -2,6 +2,14 @@
 
 Quick-reference URLs for the 20m WSPR pico balloon build (Traquito Jetpack).
 
+## This document / repo
+
+Lives in `github.com/dsthrower/pico-balloon` (branch: `master`). Raw URLs:
+
+- references.md — https://raw.githubusercontent.com/dsthrower/pico-balloon/master/references.md
+- receive_station_setup.md — https://raw.githubusercontent.com/dsthrower/pico-balloon/master/receive_station_setup.md
+- README.md — https://raw.githubusercontent.com/dsthrower/pico-balloon/master/README.md
+
 ## Related documents
 
 - **Receive station setup & runbook:** `receive_station_setup.md` — SDR/antenna hardware, signal chain, and bring-up steps for monitoring WSPR.

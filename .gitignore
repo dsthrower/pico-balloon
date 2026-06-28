@@ -1,1 +1,12 @@
+# macOS
 .DS_Store
+
+# AppleDouble / resource fork files
+._*
+
+# macOS metadata
+.Spotlight-V100
+.Trashes
+
+# Custom folder icon (Icon followed by a carriage return)
+Icon

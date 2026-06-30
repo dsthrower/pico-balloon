@@ -10,3 +10,6 @@
 
 # Custom folder icon (Icon followed by a carriage return)
 Icon
+
+# Office temp/lock files
+~$*
